@@ -306,7 +306,7 @@
     (stroke (width 0) (type default))
     (uuid 95904da1-5260-4d7a-a1b9-1c51003826a9)
   )
-  (wire (pts (xy 127 81.28) (xy 148.59 81.28))
+  (wire (pts (xy 127 81.28) (xy 149.86 81.28))
     (stroke (width 0) (type default))
     (uuid b6125b5c-f33a-4e3e-a833-a7bf3a3122f1)
   )
@@ -319,7 +319,7 @@
     (uuid fe4b06fa-e1b2-43fc-a88a-1901fe6f2823)
   )
 
-  (hierarchical_label "EXT_UART_RX" (shape input) (at 148.59 81.28 0) (fields_autoplaced)
+  (hierarchical_label "EXT_UART_RX" (shape input) (at 149.86 81.28 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 037d873a-e33b-47d8-883f-ec8090783cd5)
   )
